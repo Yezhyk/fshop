@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: lightblue;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    color: blue;
+}
+footer {
+background-color: white;
+}
+footer p {
+    background-color:lightpink ;
+}
+nav {
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid lightpink;
+}
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightsalmon;
+}
+main p{
+    background-color: lightcoral;
+}
+h2 {
+    color: blue;
+}
